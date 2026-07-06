@@ -31,10 +31,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstefaniaZ13&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=2F81F7" />
+  <img src="https://streak-stats.demolab.com/?user=EstefaniaZ13&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=2F81F7" />
 </p>
 
----
 
 ### 🌐 Conecta conmigo
 
