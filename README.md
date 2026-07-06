@@ -54,9 +54,7 @@ Profundizando en Python + SQL, y consolidando lo que ya sé de Android/Kotlin y 
 
 </div>
 
-<details align="center">
-<b>📬 Más información / Contacto</b>
-<br>
+### 📬 Más información / Contacto
 
 <div align="center">
 
@@ -65,4 +63,3 @@ Profundizando en Python + SQL, y consolidando lo que ya sé de Android/Kotlin y 
 ![Discord](https://img.shields.io/badge/Discord-FannyZ-5865F2?style=for-the-badge&logo=discord&logoColor=fff)
 
 </div>
-</details>
