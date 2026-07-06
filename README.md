@@ -51,19 +51,11 @@ Profundizando en Python + SQL, y consolidando lo que ya sé de Android/Kotlin y 
 
 ---
 
-<details align="center">
-<summary><b>📬 Más información / Contacto</b></summary>
-<br>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](#)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=fff)](#)
 
 </div>
 
 <details align="center">
-<summary><b>📬 Más información / Contacto</b></summary>
+<b>📬 Más información / Contacto</b>
 <br>
 
 <div align="center">
