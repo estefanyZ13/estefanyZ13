@@ -27,7 +27,11 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EstefaniaZ13&show_icons=true&theme=tokyonight&hide_border=true&title_color=8A2BE2&icon_color=2F81F7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=estefanyZ13&show_icons=true&theme=tokyonight&hide_border=true&title_color=8A2BE2&icon_color=2F81F7" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=estefanyZ13&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=2F81F7" />
 </p>
 
 <p align="center">
