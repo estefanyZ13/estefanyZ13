@@ -10,7 +10,7 @@
 ### 🛠️ Stack Tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,csharp,dotnet,php,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,dotnet,php,mysql,git,github" />
 </p>
 
 ---
