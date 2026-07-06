@@ -61,12 +61,16 @@ Profundizando en Python + SQL, y consolidando lo que ya sé de Android/Kotlin y 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=fff)](#)
 
 </div>
-</details>
 
+<details align="center">
+<summary><b>📬 Más información / Contacto</b></summary>
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=estefanyZ13&color=8A2BE2&style=flat-square" />
-</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6&section=footer"/>
+[![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:estefaniesmith73@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=fff)](mailto:estefany.zambrano@utp.ac.pa)
+![Discord](https://img.shields.io/badge/Discord-FannyZ-5865F2?style=for-the-badge&logo=discord&logoColor=fff)
+
+</div>
+</details>
