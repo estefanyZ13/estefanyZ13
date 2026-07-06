@@ -7,6 +7,18 @@
 
 ---
 
+### 👤 Sobre mí
+
+Estudiante de software enfocada en aprender haciendo. Me gusta entender cómo se conectan las piezas — desde una app de Android hasta una API con su cliente MVC.
+
+---
+
+### 🌱 Actualmente aprendiendo
+
+Profundizando en Python + SQL, y consolidando lo que ya sé de Android/Kotlin y .NET.
+
+---
+
 ### 🛠️ Stack Tecnológico
 
 <p align="center">
@@ -29,10 +41,12 @@
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=estefanyZ13&show_icons=true&theme=tokyonight&hide_border=true&title_color=8A2BE2&icon_color=2F81F7" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=estefanyZ13&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=2F81F7" />
 </p>
 
+---
 
 ### 🌐 Conecta conmigo
 
